@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden; /* ẩn thanh cuộn */
+}
+
+a {
+  font-family: "Roboto", Arial, sans-serif;
+  color: #b2b8b0;
+  
+}
+    b {
+    font-family: "Roboto", Arial, sans-serif;
+    font-style: normal;
+    color:#b2b8b0;
+    font-weight: 100;
+    font: size 15px;
+    }
